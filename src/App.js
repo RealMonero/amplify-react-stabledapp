@@ -43,7 +43,7 @@ class App extends Component {
           <div id='overlayText'>Loading your image please wait...</div>
         </div>
         <form onSubmit={this.handleSubmit}>
-          <h1> Welcome to Stable Diffusion AI</h1>
+          <h1> Welcome to Stable Diffusion AI by Monero</h1>
          
           <input
             autoFocus={true}
